@@ -10,7 +10,7 @@ frontend:
 backend:
   image:
     repository: tuanasanh/my-app-backend-image
-    tag: "1.0"
+    tag: "f12e4c5"
   replicaCount: 2
   service:
     type: NodePort
